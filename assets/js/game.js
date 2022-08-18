@@ -1,4 +1,4 @@
-// var playerName = 'Clank McKrank';
+// var playerName = 'Roronoa Zoro';
 var playerName = window.prompt("What is your robot's name?");
 var playerHealth = 100;
 var playerAttack = 10;
@@ -7,7 +7,7 @@ var playerMoney = 10;
 // You can also log multiple values at once like this
 console.log(playerName, playerAttack, playerHealth);
 
-var enemyNames = ["Roborto", "Amy Android", "Robo Trumble"];
+var enemyNames = ["Zoro", "Goku", "Ichigo"];
 var enemyHealth = 50;
 var enemyAttack = 12;
 
